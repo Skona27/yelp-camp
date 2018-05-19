@@ -1,0 +1,15 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+form#delete-form {
+  display: inline-block;
+}
